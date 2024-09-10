@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "===Linux CLI Unit ==="
+# 1. Basic Navigation : listing files and navigating directories
+echo -e \" Step 2:navigating to the home directory"
+cd ~ # the ~ represent your home directory 
+pud # print working 
+
+
+
+# 3. Writting to files 
+echo -e  "\n
